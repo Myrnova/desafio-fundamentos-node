@@ -31,5 +31,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "uuid": "^8.3.0"
-  }
+  },
+  "repository": "https://github.com/Myrnova/desafio-fundamentos-node.git",
+  "author": "Débora Cavallari <debora_cavallari@hotmail.com>"
 }
